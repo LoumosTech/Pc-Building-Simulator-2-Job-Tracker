@@ -16,7 +16,7 @@ Note: This Software is intended for those with multiple screens. It may be impra
 ## Download:
 | Version | Link | OS |
 | ------- | ---- | -- |
-| 0.0.1.0 | link | ![image](/Assets/img/windows) |
+| 0.0.1.0 | link | ![image](/Assets/img/windows.png) |
 
 ***
 
