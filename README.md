@@ -3,7 +3,7 @@
 ### Description:
 Pc Building Simulator 2 Job Tracker allows you to track your jobs out of game.
 
-❗Warning: This is only a build version not a full release. Some features may break❗
+### **❗Warning: Currently only a build version is available, build versions may contain bugs and can break at any time❗**
 
 Please submit any and all problems you encounter in the issue tracker in this repository.
 
@@ -14,8 +14,17 @@ Note: This Software is intended for those with multiple screens. It may be impra
 ***
 
 ## Download:
-| Version | Link    |
-| ------- | ------- |
-| 0.0.1.0 | link |
+| Version | Link | OS |
+| ------- | ---- | -- |
+| 0.0.1.0 | link | ![image](/Assets/img/windows) |
 
 ***
+
+## Install Instructions
+
+1. Download Zip Folder.
+2. Extract Zip.
+3. Open PCBSJT2_Setup.msi
+4. Follow Intaller and select a installation location.
+
+After installed a shortcut will be added to your desktop
