@@ -27,4 +27,10 @@ Note: This Software is intended for those with multiple screens. It may be impra
 3. Open PCBSJT2_Setup.msi
 4. Follow Intaller and select a installation location.
 
-After installed a shortcut will be added to your desktop
+After installed a shortcut will be added to your desktop.
+
+***
+## Future Features (may change)
+
+1. Ability to save current clients.
+2. Dark Mode
