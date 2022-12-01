@@ -16,7 +16,7 @@ Note: This Software is intended for those with multiple screens. It may be impra
 ## Download:
 | Version | Link | OS |
 | ------- | ---- | -- |
-| 0.0.1.0 | [Download](https://raw.githubusercontent.com/LoumosTech/Pc-Building-Simulator-2-Job-Tracker/main/Assets/files/PCBS2JT0.0.1.0.zip) | ![image](/Assets/img/windows.png) |
+| 0.0.1.0 | [Download](https://raw.githubusercontent.com/LoumosTech/Pc-Building-Simulator-2-Job-Tracker/main/Assets/files/PCBS2JT0.0.1.0.zip) | ![image](/Assets/img/windows.png) 10+ (64Bit) |
 
 ***
 
