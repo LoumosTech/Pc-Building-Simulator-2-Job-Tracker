@@ -16,8 +16,8 @@ Note: This Software is intended for those with multiple screens. It may be impra
 ## Download:
 | Version | Link | OS | Release Type | Patch Notes |
 | ------- | ---- | -- | - | - |
-| 0.0.1.0 | [Download](https://raw.githubusercontent.com/LoumosTech/Pc-Building-Simulator-2-Job-Tracker/main/Assets/files/PCBS2JT0.0.1.0.zip) | ![image](/Assets/img/windows.png) 10+ (64Bit) | <div style="display:block; margin: auto;"><img src="/Assets/img/build.png" alt="drawing" width="50" height="50" /><div/> | None |
-| 0.0.1.3 | [Download](https://raw.githubusercontent.com/LoumosTech/Pc-Building-Simulator-2-Job-Tracker/main/Assets/files/PCBSJT2-0.0.1.3.zip) | ![image](/Assets/img/windows.png) 10+ (64Bit) | <div style="display:block; margin: auto;"><img src="/Assets/img/build.png" alt="drawing" width="50" height="50" /><div/> | [Notes](https://github.com/LoumosTech/Pc-Building-Simulator-2-Job-Tracker/blob/main/Assets/PatchNotes/Patch-0.0.1.3.md) |
+| 0.0.1.0 | [Download](https://raw.githubusercontent.com/LoumosTech/Pc-Building-Simulator-2-Job-Tracker/main/Assets/files/PCBS2JT0.0.1.0.zip) | ![image](/Assets/img/windows.png) 10+ (64Bit) | <div style="display:block; margin: auto;"><img src="/Assets/img/build.png" href="https://github.com/LoumosTech/Pc-Building-Simulator-2-Job-Tracker/blob/main/Assets/files/RnB.md" alt="drawing" width="50" height="50" /><div/> | None |
+| 0.0.1.3 | [Download](https://raw.githubusercontent.com/LoumosTech/Pc-Building-Simulator-2-Job-Tracker/main/Assets/files/PCBSJT2-0.0.1.3.zip) | ![image](/Assets/img/windows.png) 10+ (64Bit) | <div style="display:block; margin: auto;"><img src="/Assets/img/build.png" href="https://github.com/LoumosTech/Pc-Building-Simulator-2-Job-Tracker/blob/main/Assets/files/RnB.md" alt="drawing" width="50" height="50" /><div/> | [Notes](https://github.com/LoumosTech/Pc-Building-Simulator-2-Job-Tracker/blob/main/Assets/PatchNotes/Patch-0.0.1.3.md) |
 
 ***
 
