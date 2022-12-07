@@ -38,5 +38,11 @@ After installed a shortcut will be added to your desktop.
 ***
 ## Future Features (may change)
 
-1. Ability to save current clients.
-2. Dark Mode
+1. Dark Mode
+  
+  
+***
+  
+## Latest Patch - 0.0.2.0
+  
+New: Clients now are saved. After closing app any uncomplete jobs presist for the next time the app is opened.
