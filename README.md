@@ -39,7 +39,7 @@ After installed a shortcut will be added to your desktop.
 ## Future Features (may change)
 
 1. Dark Mode
-  
+2. Automatic Updates.
   
 ***
   
