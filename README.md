@@ -1,4 +1,4 @@
-# Pc Building Simulator 2 Job Tracker
+# Pc Building Simulator 2 Job Tracker - Project Closed...
 
 ### Description:
 Pc Building Simulator 2 Job Tracker allows you to track your jobs out of game.
